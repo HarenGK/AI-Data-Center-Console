@@ -29,9 +29,9 @@ Modern data centres consume massive amounts of electricity and water (for coolin
 * **Icons:** Lucide React
 * **Architecture Design:** Single-page application (SPA) with complex, unified state management handling real-time simulation ticks.
 
-## 🏗️ Proposed System Architecture
+## 🏗️ Proposed System Architecture (POC Only)
 
-![EcoDC System Architecture Diagram](System Architecture Diagram (EcoDC).png)
+![System Architecture Diagram (EcoDC)](https://github.com/HarenGK/AI-Data-Center-Console/blob/3912d95c27fcae6ba05e98d75be083dffb9debeb/System%20Architecture%20Diagram%20(EcoDC).png?raw=true)
 
 *The architecture diagram above illustrates the flow of data from the Edge IoT sensors (Data Acquisition Layer) through the Real-Time Processing Pipeline (Apache Kafka/Spark), feeding into the AI Analytics Engine for autonomous control commands.*
 

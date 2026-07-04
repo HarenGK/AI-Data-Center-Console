@@ -50,7 +50,7 @@ Follow these instructions to run the interactive demonstration on your local mac
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/green-datacenter.git](https://github.com/yourusername/green-datacenter.git)
+   git clone [https://github.com/HarenGK/AI-Data-Center-Console.git)
    cd green-datacenter
 
 2. **Install Dependencies:**

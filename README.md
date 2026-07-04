@@ -103,5 +103,5 @@ This POC is interactive and simuates teh core concept of the Sustainable Green D
 
 ## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the ![MIT License](LICENSE.md).
    
